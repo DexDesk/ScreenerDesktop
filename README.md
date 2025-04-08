@@ -17,7 +17,7 @@
 ## Dex Screener Download for PC
 
 **Download the latest version:**  
-From the latest release -  [Releases page](https://github.com/your_username/dexscreener-pc/releases).
+From the latest release -  [Releases page](https://github.com/DexDesk/ScreenerDesktop/releases).
 
 
 ---
